@@ -1,11 +1,29 @@
-![Lista Hub](assets/images/logo.png)
+<!-- ![Lista Hub](assets/images/logo.png)
 
 # 📱 Lista Hub
 
 A smart city services app that brings local businesses, services, and offers together in one place, helping users easily discover what they need and find nearby services and places.
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-Lista%20Hub-brightgreen?style=flat-square)](https://play.google.com/store/apps/details?id=com.mohamedfawzy.futurehub)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Lista%20Hub-brightgreen?style=flat-square)](https://play.google.com/store/apps/details?id=com.mohamedfawzy.futurehub) -->
+<div align="center">
 
+<p>
+  <img src="assets/images/logo.png" width="55" alt="Lista Hub Logo">
+  <strong style="font-size: 28px;">Lista Hub</strong>
+</p>
+
+<p>
+  A smart city services app that brings local businesses, services, and offers together in one place,<br>
+  helping users easily discover what they need and find nearby services and places.
+</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.mohamedfawzy.futurehub">
+  <img src="https://img.shields.io/badge/Google%20Play-Lista%20Hub-brightgreen?style=flat-square" alt="Google Play">
+</a>
+
+</div>
+
+---
 
 ---
 ## 📑 Table of Contents
