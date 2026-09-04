@@ -7,23 +7,43 @@ A smart city services app that brings local businesses, services, and offers tog
 [![Google Play](https://img.shields.io/badge/Google%20Play-Lista%20Hub-brightgreen?style=flat-square)](https://play.google.com/store/apps/details?id=com.mohamedfawzy.futurehub) -->
 <div align="center">
 
-<p>
-  <img src="assets/images/logo.png" width="55" alt="Lista Hub Logo">
-  <strong style="font-size: 28px;">Lista Hub</strong>
-</p>
+<br>
+
+<img src="assets/images/logo.png" width="85" alt="Lista Hub Logo">
+
+<h1>
+  <span style="text-shadow: 0 3px 8px rgba(0,0,0,0.25);">
+    Lista <span style="color:#FF8A00;">Hub</span>
+  </span>
+  <sup>
+    <span style="
+      font-size: 11px;
+      color: #22C55E;
+      background: rgba(34,197,94,0.12);
+      border: 1px solid rgba(34,197,94,0.3);
+      border-radius: 20px;
+      padding: 4px 9px;
+      font-weight: 600;
+    ">
+      ● LIVE
+    </span>
+  </sup>
+</h1>
 
 <p>
   A smart city services app that brings local businesses, services, and offers together in one place,<br>
   helping users easily discover what they need and find nearby services and places.
 </p>
 
+<br>
+
 <a href="https://play.google.com/store/apps/details?id=com.mohamedfawzy.futurehub">
   <img src="https://img.shields.io/badge/Google%20Play-Lista%20Hub-brightgreen?style=flat-square" alt="Google Play">
 </a>
 
-</div>
+<br><br>
 
----
+</div>
 
 ---
 ## 📑 Table of Contents
